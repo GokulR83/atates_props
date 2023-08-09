@@ -1,1 +1,1 @@
-# atates_props
+# states_props
